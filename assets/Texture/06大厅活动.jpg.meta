@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a29eb84a-a52c-4267-9e33-17d2ef2adfbd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "06大厅活动": {
+      "ver": "1.0.3",
+      "uuid": "70a96bfc-96c0-4c7b-8a28-0f696f2cd8a6",
+      "rawTextureUuid": "a29eb84a-a52c-4267-9e33-17d2ef2adfbd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 720,
+      "height": 1280,
+      "rawWidth": 720,
+      "rawHeight": 1280,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
